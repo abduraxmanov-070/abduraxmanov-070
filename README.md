@@ -1,5 +1,5 @@
 👋 Hi, I'm Abduraxmanov_B \
-💻 I know PHP & MYSQL & OOP & Laravel \
+💻 I know PHP & MYSQL & OOP & Laravel & JS \
 👨‍💻 I’m looking to collaborate on projects \
 💬 I'm 20-years old developer from Uzbekistan/Surkhandarya \
 🌐 My web-site [AmuSoft.uz](http://amusoft.uz) \
